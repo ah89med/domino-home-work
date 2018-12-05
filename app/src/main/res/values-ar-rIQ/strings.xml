@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Domino Game</string>
+    <string name="team_a">فريق أ</string>
+    <string name="team_b">فريق ب</string>
+    <string name="domino_game">لعبة الدومينو</string>
+    <string name="Win">مبروك</string>
+</resources>

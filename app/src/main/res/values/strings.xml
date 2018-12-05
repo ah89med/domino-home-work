@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Domino Game</string>
+    <string name="domino_game">Domino Game</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="Win">WIN</string>
+
+</resources>
